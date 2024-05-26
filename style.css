@@ -1,0 +1,48 @@
+
+body
+{
+   
+}
+h1
+{
+  font-family: Arial, Helvetica, sans-serif ;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+h2
+{
+  font-size: 1.5em;
+  padding-bottom: 1em; 
+}
+header
+{
+  text-align: center;
+  margin: auto 2em;
+}
+section
+{
+  margin: auto 2em 4em 3em;
+}
+i
+{
+  margin-right: .5em;  
+}
+p
+{
+  margin: .2em auto
+}
+h1,h2
+{
+  font-weight: 90;
+  margin-bottom: 10; 
+}
+#mainLeft
+{
+  border-right: 20px solid lightgray;
+}
+#mainRight
+{
+  border-left: 20px solid lightgray;   
+}
